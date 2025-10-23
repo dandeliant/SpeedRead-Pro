@@ -1,6 +1,6 @@
 /* SpeedRead Pro — Service Worker */
 const REPO_PATH = '/SpeedRead-Pro/'; // np. '/SpeedRead-Pro/' lub '/' dla user pages
-const VERSION = 'v1.0.0';
+const VERSION = 'v1.0.1';
 const STATIC_CACHE = `sr-static-${VERSION}`;
 const RUNTIME_CACHE = `sr-runtime-${VERSION}`;
 
